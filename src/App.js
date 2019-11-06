@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Clock from './lib/clock';
-import Dashboard from './components/dashboard/Dashboard';
+import Clock from './lib/Clock';
+import Dashboard from './components/Dashboard/Dashboard';
 class App extends Component {
   render() {
     return (
